@@ -40,3 +40,5 @@ To replicate or work on this project:
 
 - `train.csv`: Dataset used for model training.
 - `test.csv`: Dataset for predicting Airbnb prices.
+- `0-exploration.ipynb`: Exploration of process of the dataset.
+- `1-Training_and_predicting.ipynb`: Training and predicting process.
