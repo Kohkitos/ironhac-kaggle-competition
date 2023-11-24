@@ -34,9 +34,8 @@ The goal of the project was to develop a predictive model for Airbnb prices usin
 To replicate or work on this project:
 1. Ensure you have Python installed.
 2. Clone this repository.
-3. Install necessary dependencies listed in `requirements.txt`.
-4. Run the Jupyter notebooks or Python scripts provided to explore the code and data.
-5. Feel free to experiment, modify, or extend the project as needed.
+3. Run the Jupyter notebooks or Python scripts provided to explore the code and data.
+4. Feel free to experiment, modify, or extend the project as needed.
 
 ## Files Included 📝
 
